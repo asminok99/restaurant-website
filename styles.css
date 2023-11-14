@@ -1,0 +1,218 @@
+.asalam{
+    position:sticky;
+    top: 0px;
+    background-color: white , 10%;
+
+
+}
+
+
+.link{
+    list-style-type: none;
+    margin: 15px;
+}
+.linkk{
+    list-style-type: none;
+    color:  rgb(139, 69, 19);
+    margin: 15px;
+}
+.ulink{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+.damdi{
+    position: absolute;
+    top: 40px;
+    left: 150px;
+}
+.brown{
+    font-size: 70px;
+    color: rgb(139, 69, 19);
+    
+}
+.bari{
+    position: absolute;
+    left: 470px;  
+    top: 200px;
+}
+.black{
+    position: absolute;
+    top: 130px;
+    font-size: 30px;
+}
+.button-top{
+    background-color: rgb(139, 69, 19);
+    color: white;
+    border: none;
+    border-radius: 7px;
+    padding: 5px;
+    position: absolute;
+    top: 250px;
+}
+.img-top{
+    position: absolute;
+    right: 250px;
+    top: 200px;
+}
+
+.img-manti{
+    width: 400px;
+    height: 200px;
+    border-radius: 7px;
+    position: absolute;
+    top: 850px;
+    left: 290px;
+}
+.nav-bari{
+    position: absolute;
+    top: 720px;
+    right: 350px;
+}
+.manti{
+    font-size: 45px;
+}
+.butt-mant{
+    background-color: rgb(139, 69, 19);
+    color: white;
+    border: none;
+    border-radius: 7px;
+    padding: 10px;
+}
+.biz{
+    list-style-type: none;
+    color:  rgb(139, 69, 19);
+    
+}
+.www{
+    font-size: 50px;
+}
+.bari3{
+    position: absolute;
+    top: 1200px;
+    left: 450px;
+}
+.vilka{
+    position: absolute;
+    top: 1350px;
+    left: 200px;
+}
+.pizza{
+    position: absolute;
+    top:1350px;
+    left: 700px;
+}
+.car{
+    position: absolute;
+    top:1350px;
+    right: 200px;
+}
+.bizz{
+    list-style-type: none;
+    color:  rgb(139, 69, 19);
+    position: absolute;
+    left: 300px;
+}
+.boxi{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: absolute;
+    top: 1900px;
+}
+.besh{
+    position: absolute;
+    left: 200px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 2);
+    padding: 30px;
+    border-radius: 7px;
+}
+.manty{
+    position: absolute;
+    left: 680px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 2);
+    padding: 30px;
+    border-radius: 7px;
+}
+.palay{
+    position: absolute;
+    left: 1100px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 2);
+    padding: 30px;
+    border-radius: 7px;
+}
+.soll{
+    position: absolute;
+    top: 1700px; 
+    left: 650px;
+}
+.arnay{
+    position: absolute;
+    left:85px ;
+    list-style-type: none;
+    color:  rgb(139, 69, 19);
+}
+.apta{
+    font-size: 50px;
+    
+}
+.tg{
+    font-weight: bold;
+}
+.bori{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: relative;
+    top: 2500px;
+}
+.kizmet{
+    position: absolute;
+    left: 500px;
+}
+.akparat{
+    position: absolute;
+    left: 850px;
+    
+}
+.meken{
+    position: absolute;
+    left: 1200px;
+}
+.domik{
+    color:  rgb(139, 69, 19);
+    position: relative;
+   left: -100px;
+}
+.meir{
+    position: relative;
+    top: 40px;
+    left: -878px;
+}
+.dop{
+    font-size: 25px;
+}
+.baride{
+    position: relative;
+    top: 2300px;
+    left: 230px; 
+}
+.soilesek{
+    color:  rgb(139, 69, 19);
+}
+.button-foot{
+    background-color: rgb(139, 69, 19);
+    color: white;
+    border: none;
+    border-radius: 7px;
+    padding: 10px;
+    position: absolute;
+    right: 600px;
+    top: 60px;
+}
+.bizben{
+    font-size: 50px;
+}
